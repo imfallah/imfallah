@@ -3,7 +3,7 @@ I'm Mohammad Fallah </h1>
 
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=603895&random=false&width=435&lines=+welcome+to+my+GitHub+Profile+%F0%9F%98%89" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=B42418&random=false&width=435&lines=Welcome+to+my+Github+%F0%9F%A4%96" alt="Typing SVG" /></a>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=603895&random=false&width=435&lines=>++>++>++>++>++>++>++>++>++>++>++>++>+++>++>++>++>+>" alt="Typing SVG" /></a>
 <p align="center">
