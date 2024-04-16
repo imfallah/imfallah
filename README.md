@@ -78,13 +78,7 @@ I'm Mohammad Fallah </h1>
 
 <h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80"> Connect with me </h2>
 
-<p align="center">
-<a href="https://www.formula1.com/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a> 
-<a href="https://instagram.com/mrcode.co"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
 
-<p align="center">
-<a href="https://www.youtube.com/putak"><img src="https://img.shields.io/badge/youtube-e00101.svg?style=for-the-badge&logo=youtube&logoColor=ffffff/></a>
-<a href="https://www.youtube.com/mrcodeco"><img src="https://img.shields.io/badge/youtube-e00101.svg?style=for-the-badge&logo=youtube&logoColor=ffffff"/></a>    
 
 
 
