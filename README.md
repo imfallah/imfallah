@@ -40,7 +40,7 @@ I'm Mohammad Fallah </h1>
 ##### 💪 Programming Languages
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
 
-<a><img src="https://img.shields.io/npm/v/npm.svg?logo=npm"></a>
+
 
 
 
@@ -93,7 +93,7 @@ I'm Mohammad Fallah </h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jokernets&label=Profile%20views&color=0e75b6&style=flat" alt="jjokernets" /> </p>
 </p>
 
-<img src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" alt="just for fun :D">\
+<img src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" alt="just for fun :D">
 
 
 
