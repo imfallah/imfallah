@@ -11,6 +11,8 @@ I'm Mohammad Fallah </h1>
 
 <br>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jokernets&label=Profile%20views&color=0e75b6&style=flat" alt="jjokernets" /> </p>
+</p>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
@@ -85,8 +87,6 @@ I'm Mohammad Fallah </h1>
 
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jokernets&label=Profile%20views&color=0e75b6&style=flat" alt="jjokernets" /> </p>
-</p>
 
 <img src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" alt="just for fun :D">
 
