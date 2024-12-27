@@ -39,18 +39,14 @@ I'm Mohammad :)</h1>
 
 |             `PYQT5`            |- |
 | ------------- | ------------- | 
-|    Image Editor               |   <img src="URL_TO_IMAGE1" width="50">  |
-|    MPR Viewer                 |            |
-|     Tetris Game               |           |
-|     Date Converter            |      |
-|     File Converter            | |
-|     System mamnegments        |          |
+|    Image Editor               |   <img src="https://github.com/imfallah/imfallah/blob/main/pic/imag-editor.png" width="100" > |
+|    MPR Viewer                 |    <img src="https://github.com/imfallah/imfallah/blob/main/pic/mpr1.png" width="100" >   |
+|     Tetris Game               |   <img src="https://github.com/imfallah/imfallah/blob/main/pic/tetris.png" width="100" >      
+|     Date Converter            |    <img src="https://github.com/imfallah/imfallah/blob/main/pic/date-converter.png" width="100">  |
+|     File Converter            | <img src="https://github.com/imfallah/imfallah/blob/main/pic/file-convert.png" width="100">|
+|     System mamnegments        |    <img src="https://github.com/imfallah/imfallah/blob/main/pic/sys.png" width="100">      |
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+
 
 
 
