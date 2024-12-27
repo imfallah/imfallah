@@ -39,12 +39,12 @@ I'm Mohammad :)</h1>
 
 |             `PYQT5`            |- |
 | ------------- | ------------- | 
-|    Image Editor               |      Piano Game        |
-|    MPR Viewer                 |      Handwritten       |
-|     Tetris Game               |      Enhance Image     |
-|     Date Converter            |    Summarize the text  |
-|     File Converter            | Remove Image Background|
-|     System mamnegments        |        Image To Sound  |
+|    Image Editor               |   <img src="URL_TO_IMAGE1" width="50">  |
+|    MPR Viewer                 |            |
+|     Tetris Game               |           |
+|     Date Converter            |      |
+|     File Converter            | |
+|     System mamnegments        |          |
 
 |   |   |   |   |   |
 |---|---|---|---|---|
