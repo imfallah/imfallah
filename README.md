@@ -37,15 +37,14 @@ I'm Mohammad :)</h1>
 
 # My Best Project For Python 🐍✨
 
-|             `PYQT5`            |- |
-| ------------- | ------------- | 
-|    Image Editor               |   <img src="https://github.com/imfallah/imfallah/blob/main/pic/imag-editor.png" width="100" > |
-|    MPR Viewer                 |    <img src="https://github.com/imfallah/imfallah/blob/main/pic/mpr1.png" width="100" >   |
-|     Tetris Game               |   <img src="https://github.com/imfallah/imfallah/blob/main/pic/tetris.png" width="100" >      
-|     Date Converter            |    <img src="https://github.com/imfallah/imfallah/blob/main/pic/date-converter.png" width="100">  |
-|     File Converter            | <img src="https://github.com/imfallah/imfallah/blob/main/pic/file-convert.png" width="100">|
-|     System mamnegments        |    <img src="https://github.com/imfallah/imfallah/blob/main/pic/sys.png" width="100">      |
-
+| Project Name                 | Preview                                                                                       | Description                                    | Demo Link            |
+|------------------------------|-----------------------------------------------------------------------------------------------|------------------------------------------------|----------------------|
+| **Image Editor**             | <img src="https://github.com/imfallah/imfallah/blob/main/pic/imag-editor.png" width="100" >   | A feature-rich image editing tool built with PyQt5. | [Demo](https://imfallah.ir/portfolio/%d8%b7%d8%b1%d8%a7%d8%ad%db%8c-%d8%a7%d8%af%db%8c%d8%aa%d9%88%d8%b1-%d8%b9%da%a9%d8%b3/)           |
+| **MPR Viewer**               | <img src="https://github.com/imfallah/imfallah/blob/main/pic/mpr1.png" width="100" >          | Viewer for orthographic and segmented images.  | [Demo](#)           |
+| **Tetris Game**              | <img src="https://github.com/imfallah/imfallah/blob/main/pic/tetris.png" width="100" >        | Classic Tetris game with a PyQt5 interface.    | [Demo](https://github.com/imfallah/TETRIS-Game-PyQt5)           |
+| **Date Converter**           | <img src="https://github.com/imfallah/imfallah/blob/main/pic/date-converter.png" width="100"> | Converts dates between multiple formats.       | [Demo](https://github.com/imfallah/MPR-Viewer-PyQt5)           |
+| **File Converter**           | <img src="https://github.com/imfallah/imfallah/blob/main/pic/file-convert.png" width="100">   | A tool to convert files between various formats.| [Demo](https://github.com/imfallah/Converter-PyQt5)           |
+| **System Management**        | <img src="https://github.com/imfallah/imfallah/blob/main/pic/sys.png" width="100" >           | Manages and monitors system operations.        | [Demo](https://github.com/imfallah/System-management)           |
 
 
 
