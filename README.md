@@ -8,7 +8,6 @@ I'm Mohammad :)</h1>
 
 <p align="center">:round_pushpin: Profile views</p>
 <div align="center">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/imfallah/count.svg" width=400px>
 </div>
 
 
